@@ -1,3 +1,3 @@
-#Freelancer project
-##Tecnologias
+# Freelancer project
+## Tecnologias
 Java, Next, Mysql
